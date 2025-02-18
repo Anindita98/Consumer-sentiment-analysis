@@ -1,8 +1,8 @@
 # Ignore Python cache files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+.pyc
+.pyo
+.pyd
 
 # Ignore virtual environments
 venv/
@@ -14,18 +14,18 @@ env/
 # Ignore dataset files (since it's large)
 data/raw_reviews.csv
 data/cleaned_reviews.csv
-data/*.csv  # Ignore all CSV files inside data/
+data/.csv  # Ignore all CSV files inside data/
 
 # Ignore log files
 logs/
-*.log
+.log
 
 # Ignore VS Code and PyCharm settings
 .vscode/
 .idea/
 
 # Ignore large or unnecessary files
-*.zip
-*.tar.gz
-*.h5
-*.pkl
+.zip
+.tar.gz
+.h5
+.pkl
