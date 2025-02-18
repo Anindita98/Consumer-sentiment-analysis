@@ -43,3 +43,16 @@ Timestamps
 This project provided valuable insights into consumer sentiment analysis and real-world NLP applications.
 Understanding customer feedback helps businesses improve product quality and marketing strategies.
 The project can be further extended into real-time sentiment monitoring for social media and brand reputation analysis.
+
+## 📂 Dataset
+
+This project uses the **Sephora Skincare Reviews Dataset**, available on **Kaggle**.
+
+📌 **Dataset Source**:  
+[Skincare Products EDA & Sentiment Analysis on Kaggle](https://www.kaggle.com/code/melissamonfared/skincare-products-eda-sentiment-analysis)
+
+To use this dataset:
+1. **Download the dataset** from Kaggle.
+2. **Extract the files** and place them in the `data/` folder.
+3. Ensure the dataset files are named correctly:
+
